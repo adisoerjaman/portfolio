@@ -1,0 +1,6 @@
+.bg-image {
+    background-image: url("../images/pexels-ajay-donga-2174656.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
